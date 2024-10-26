@@ -1,3 +1,4 @@
+
 # 🚦 Traffic Flow Prediction & Route Optimization
 
 #### *Smart Urban Transportation Solution using Machine Learning*
@@ -87,6 +88,17 @@ where:
 - 🚫 Effective congestion avoidance
 - 🎯 Dynamic route adaptation
 
+### Project Output Visualization
+
+![Project Output](https://raw.githubusercontent.com/acevaliant420/Traffic-Flow-Prediction-and-Optimal-Route-Finding/main/output.png)
+
+The visualization above demonstrates the system's functionality:
+
+- Left panel shows the map interface with route options
+- Different colored segments indicate varying traffic levels
+- The optimal route is highlighted based on both distance and predicted traffic conditions
+- The system successfully avoids heavily congested areas while maintaining reasonable path lengths
+
 ## 🔄 System Architecture
 
 ```mermaid
@@ -95,11 +107,11 @@ graph LR
     B --> C[Traffic Prediction]
     C --> D[A* Algorithm]
     D --> E[Optimal Route]
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#dfd,stroke:#333,stroke-width:2px
-    style D fill:#fdd,stroke:#333,stroke-width:2px
-    style E fill:#dff,stroke:#333,stroke-width:2px
+    style A fill:#FF69B4,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#836FFF,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#32CD32,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#FF7F50,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#40E0D0,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 ## 🚀 Future Enhancements
