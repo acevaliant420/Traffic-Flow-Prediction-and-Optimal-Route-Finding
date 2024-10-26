@@ -1,9 +1,6 @@
-
 # 🚦 Traffic Flow Prediction & Route Optimization
 
 #### *Smart Urban Transportation Solution using Machine Learning*
-
-![Traffic Prediction Banner](https://via.placeholder.com/800x200?text=Traffic+Flow+Prediction)
 
 ## 📋 Project Overview
 
@@ -149,4 +146,4 @@ graph LR
 
 ---
 
-*Project developed as part of the Artificial Intelligence course*
+*Project developed as part of the Artificial Intelligence course under Dr. Pratik Shah*
